@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f09a517affe95e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "太傻天书/正文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "太傻天书/正文.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "太傻天书/正文.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "太傻天书/正文.md"
           }
         }
       }
@@ -131,8 +144,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b3b380d4884bdc4",
+  "active": "f09a517affe95e8e",
   "lastOpenFiles": [
-    "未命名"
+    "太傻天书",
+    "README.md",
+    "太傻天书/正文.md"
   ]
 }
