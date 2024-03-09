@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a23a556dbfd1b26f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "振动与密度/维度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e3827d905c851995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "太傻天书/大脑病毒.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "太傻天书/大脑病毒.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "太傻天书/大脑病毒.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "太傻天书/大脑病毒.md"
           }
         }
       }
@@ -144,20 +131,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e3827d905c851995",
+  "active": "3b3b380d4884bdc4",
   "lastOpenFiles": [
-    "太傻天书/服务他人与服务自我.md",
-    "振动与密度/维度.md",
     "太傻天书/时间.md",
-    "Pasted image 20240309155811.jpg",
-    "Pasted image 20240309155808.jpg",
-    "太傻天书/投射.md",
     "太傻天书/大脑病毒.md",
     "太傻天书/分离.md",
-    "振动与密度",
-    "README.md",
-    "未命名.canvas",
+    "太傻天书/选择.md",
     "太傻天书/太傻天书.md",
+    "菠萝777/维度.md",
+    "太傻天书/服务他人.md",
+    "太傻天书/投射.md",
+    "振动与密度/未命名.canvas",
+    "README.md",
+    "Pasted image 20240309155811.jpg",
+    "Pasted image 20240309155808.jpg",
+    "菠萝777",
+    "未命名.canvas",
     "太傻天书/README.md",
     "投射”是一个心理学的名词，不过很简单，也很基础。任何时候，你都在觉得别人会和你一样对一些事情介意、忧虑或者认为重要与不重要，你就是在投射。.md",
     "太傻天书/太傻天书.txt",
