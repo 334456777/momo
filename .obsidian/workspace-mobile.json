@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "菠萝777/会议转写/2.18-1.md",
+                "file": "菠萝777/一二阶段会议/2.18-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "菠萝777/会议转写/2.18-1.md",
+            "file": "菠萝777/一二阶段会议/2.18-2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "菠萝777/会议转写/2.18-1.md",
+            "file": "菠萝777/一二阶段会议/2.18-2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "菠萝777/会议转写/2.18-1.md"
+            "file": "菠萝777/一二阶段会议/2.18-2.md"
           }
         }
       }
@@ -131,14 +131,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a1b8b4dcdee2a7b",
+  "active": "3b3b380d4884bdc4",
   "lastOpenFiles": [
+    "菠萝777/一二阶段会议/README.md",
+    "菠萝777/一二阶段会议/2.18-1.md",
     "README.md",
-    "菠萝777/会议转写/2.18-1.md",
     "未命名.md",
-    "菠萝777/会议转写/2.18-2.md",
+    "菠萝777/一二阶段会议/2.18-2.md",
     "菠萝777/名词/螺旋结构.md",
-    "菠萝777/会议转写",
+    "菠萝777/一二阶段会议",
     "菠萝777/名词/植入物.md",
     "菠萝777/名词",
     "菠萝777/名词/维度.md",
