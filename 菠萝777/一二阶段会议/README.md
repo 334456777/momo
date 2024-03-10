@@ -2,36 +2,42 @@
 
 *会议内容均需要腾讯会并点击各录制文件链接等待权限通过*
 
-「一的法则」聊聊吧01期 
+# 2.18
+「一的法则」聊聊吧01期
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=7d0fe4cb-6831-4700-a0a0-c96b15130873&from=3
 
 「一的法则」聊聊吧 闲聊场01
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=e37ec8e9-a4f1-4cfa-8814-2f48612d73bc&from=3
 
+# 2.19
 「一的法则」聊聊吧02 
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=2e0078e1-396a-4240-b107-7324ea422af7&from=3
 
 「一的法则」聊聊吧 闲聊场02
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=5a7364b7-ca76-4b1c-b586-a05495dedde7&from=3
 
+# 2.20
 「一的法则」聊聊吧03场 
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=d0b44765-3e45-4329-b249-1077245609fb&from=3
 
 「一的法则」聊聊吧闲聊场03
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=250812f1-a1bb-4fcb-ba40-32005dabdfa9&from=3
 
+# 2.22
 「一的法则」聊聊吧04期（二阶段）
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=2464e9e2-e59a-42cf-abe2-719849454730&from=3
 
 「一的法则」聊聊吧 闲聊场04（二阶段）
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=ffcf70d5-5f02-4905-a674-aa06a0d1b175&from=3
 
+# 2.23
 「一的法则」聊聊吧05期（二阶段）
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=ef078597-e648-48f5-af0d-cef89154b038&from=3
 
 「一的法则」聊聊吧闲聊场05（二阶段）
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=c3822864-267f-4ff9-a82e-adb1a0a588c0&from=3
 
+# 2.24
 「一的法则」聊聊吧06场（二阶段）
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=b9e60fbe-cb5b-441e-8203-5b371014dbd6&from=3
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "菠萝777/一二阶段会议/会议转写/2.18-1.md",
+                "file": "菠萝777/一二阶段会议/会议转写/2.18/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "菠萝777/一二阶段会议/会议转写/2.18-1.md",
+            "file": "菠萝777/一二阶段会议/会议转写/2.18/2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "菠萝777/一二阶段会议/会议转写/2.18-1.md",
+            "file": "菠萝777/一二阶段会议/会议转写/2.18/2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "菠萝777/一二阶段会议/会议转写/2.18-1.md"
+            "file": "菠萝777/一二阶段会议/会议转写/2.18/2.md"
           }
         }
       }
@@ -133,10 +133,12 @@
   },
   "active": "6a1b8b4dcdee2a7b",
   "lastOpenFiles": [
+    "菠萝777/一二阶段会议/会议转写/2.18/1.md",
+    "菠萝777/一二阶段会议/会议转写/2.18/2.md",
+    "菠萝777/一二阶段会议/会议转写/2.18",
     "菠萝777/一二阶段会议/README.md",
-    "菠萝777/一二阶段会议/会议转写/2.18-1.md",
+    "菠萝777/名词/开拓者.md",
     "菠萝777/一二阶段会议/会议转写",
-    "菠萝777/一二阶段会议/会议转写/2.18-2.md",
     "README.md",
     "未命名.md",
     "菠萝777/名词/螺旋结构.md",
@@ -164,7 +166,6 @@
     "太傻天书/太傻天书 3.txt",
     "太傻天书/太傻天书 2.txt",
     "太傻天书/太傻天书 1.txt",
-    "太傻天书/正文.md",
-    "太傻天书"
+    "太傻天书/正文.md"
   ]
 }
