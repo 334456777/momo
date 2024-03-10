@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "菠萝777/咒语/呼请.md",
+                "file": "菠萝777/名词/时间线.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "菠萝777/咒语/呼请.md",
+            "file": "菠萝777/名词/时间线.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "菠萝777/咒语/呼请.md",
+            "file": "菠萝777/名词/时间线.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "菠萝777/咒语/呼请.md"
+            "file": "菠萝777/名词/时间线.md"
           }
         }
       }
@@ -133,8 +133,10 @@
   },
   "active": "6a1b8b4dcdee2a7b",
   "lastOpenFiles": [
-    "菠萝777/名词/蓝球.md",
+    "菠萝777/名词/视角.md",
+    "菠萝777/名词/时间线.md",
     "菠萝777/咒语/呼请.md",
+    "菠萝777/名词/蓝球.md",
     "菠萝777/咒语/呼请/未命名.md",
     "菠萝777/名词/维度.md",
     "菠萝777/咒语/未命名",
@@ -171,7 +173,6 @@
     "Pasted image 20240309155808.jpg",
     "太傻天书/README.md",
     "投射”是一个心理学的名词，不过很简单，也很基础。任何时候，你都在觉得别人会和你一样对一些事情介意、忧虑或者认为重要与不重要，你就是在投射。.md",
-    "2024-03-09.md",
-    "太傻天书/正文.md"
+    "2024-03-09.md"
   ]
 }
