@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca176e014c1299ec",
+        "id": "1271b8e93f3c4cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "e3827d905c851995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "菠萝777/维度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0a9f62401337ec5",
+            "id": "0d170f51002ade96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,10 +131,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b0a9f62401337ec5",
+  "active": "0d170f51002ade96",
   "lastOpenFiles": [
-    "菠萝777/维度.md",
     "菠萝777/螺旋结构.md",
+    "菠萝777/维度.md",
+    "README.md",
     "未命名",
     "太傻天书/大脑病毒.md",
     "太傻天书/时间.md",
@@ -157,7 +145,6 @@
     "太傻天书/服务他人.md",
     "太傻天书/投射.md",
     "振动与密度/未命名.canvas",
-    "README.md",
     "Pasted image 20240309155811.jpg",
     "Pasted image 20240309155808.jpg",
     "菠萝777",
