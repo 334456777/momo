@@ -12,4 +12,4 @@
 
 *所有词语仅列出，无实际意义*
 
-由iPad版Obsidian编写，欢迎pr和issues
+由iPad版Obsidian编写，由”obsidian-git“第三方插件push，欢迎pr和issues
