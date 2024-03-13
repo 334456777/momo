@@ -12,4 +12,4 @@
 
 *所有词语仅列出，无实际意义*
 
-欢迎pr和issues
+由iPad版Obsidian编写，欢迎pr和issues
