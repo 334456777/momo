@@ -8,30 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86f7178cec60ae47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "太傻天书/太傻天书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2fcf195c86b37dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阿德勒个体心理学/心理学三部曲.md",
+                "file": "菠萝777/一二阶段会议/会议转写/2.18/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "太傻天书/太傻天书.md",
+            "file": "菠萝777/一二阶段会议/会议转写/2.18/1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "太傻天书/太傻天书.md",
+            "file": "菠萝777/一二阶段会议/会议转写/2.18/1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "太傻天书/太傻天书.md"
+            "file": "菠萝777/一二阶段会议/会议转写/2.18/1.md"
           }
         }
       }
@@ -140,14 +129,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "86f7178cec60ae47",
+  "active": "2fcf195c86b37dda",
   "lastOpenFiles": [
+    "菠萝777/一二阶段会议/会议转写/2.18/1.md",
+    "阿德勒个体心理学/课题分离理论.md",
     "阿德勒个体心理学/心理学三部曲.md",
+    "太傻天书/太傻天书.md",
     "阿德勒个体心理学/被讨厌的勇气/观点.md",
     "菠萝777/关键词/蓝球.md",
     "README.md",
     "菠萝777/关键词/视角.md",
-    "太傻天书/太傻天书.md",
     "太傻天书/关键词/太傻.md",
     "太傻天书/关键词/宇宙的意义.md",
     "太傻天书/关键词/人生的意义.md",
@@ -160,7 +151,6 @@
     "太傻天书/关键词/沙漠中心与边缘.md",
     "菠萝777/咒语/咒语/呼请.md",
     "菠萝777/咒语/歌/我们是一体.md",
-    "阿德勒个体心理学/课题分离理论.md",
     "太傻天书/关键词/大脑病毒/选择.md",
     "太傻天书/关键词/大脑病毒/时间.md",
     "太傻天书/关键词/大脑病毒/分离.md",
@@ -168,7 +158,6 @@
     "太傻天书/关键词/服务/服务的合一性.md",
     "太傻天书/关键词/服务/服务他人.md",
     "太傻天书/关键词/老师和学生的合一.md",
-    "太傻天书/关键词/投射.md",
     "弗洛伊德心理学",
     "阿德勒个体心理学/被讨厌的勇气",
     "阿德勒个体心理学/images",
