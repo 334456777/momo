@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "mobileToolbarCommands": []
+  "mobileToolbarCommands": [],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./images",
+  "showUnsupportedFiles": false
 }
