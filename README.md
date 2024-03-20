@@ -14,4 +14,4 @@
 
 *所有词语仅列出，无实际意义*
 
-	由code app编写，欢迎pr和issues
+	开始由Obsidian编写，之后由code app编写，欢迎pr和issues
