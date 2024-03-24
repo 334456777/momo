@@ -20,4 +20,4 @@ https://github.com/334456777/momo/blob/main/太傻天书/太傻天书原文
 https://github.com/334456777/momo/tree/main/菠萝777/一二阶段会议
 
 
-	开始由Obsidian编写，之后由code app编写，欢迎pr和issues
+	iPadを使います，由Obsidian编写，之后由code app编写，欢迎pr和issues
